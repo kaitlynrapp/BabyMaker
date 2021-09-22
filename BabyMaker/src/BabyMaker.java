@@ -10,12 +10,12 @@ public class BabyMaker
 				System.out.println("Sara's first baby was " + sarasBaby.getWeight() + ".");
 				
 				myBaby.setName("Maive");
-				System.out.println("Kaitlyn's first baby's name is " + myBaby.getName());
+				System.out.println("Kaitlyn's first baby's ugly name is " + myBaby.getName());
 				
 				if (sarasBaby.getWeight() > 10)
 					{
 						sarasBaby.eat();
-						System.out.println("Thats a fat baby.");
+						System.out.println("Thats a very fat baby.");
 					}
 				else 
 					{
