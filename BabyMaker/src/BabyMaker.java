@@ -15,6 +15,7 @@ public class BabyMaker
 				if (sarasBaby.getWeight() > 10)
 					{
 						sarasBaby.eat();
+						myBaby.eat();
 						System.out.println("Thats a very fat baby.");
 					}
 				else 
