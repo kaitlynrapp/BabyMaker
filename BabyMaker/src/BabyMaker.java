@@ -16,7 +16,7 @@ public class BabyMaker
 					{
 						sarasBaby.eat();
 						myBaby.eat();
-						System.out.println("Thats a very fat baby.");
+						System.out.println("Thats gonna be a very fat baby.");
 					}
 				else 
 					{
