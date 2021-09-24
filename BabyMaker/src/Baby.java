@@ -42,7 +42,7 @@ public Baby(String n, double w, boolean g)
 	weight = w;
 	isGirl = g;
 }
-
+//change
 public static void eat()
 {
 	System.out.println("The baby is eating and gonna get fat.");
